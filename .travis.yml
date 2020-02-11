@@ -10,7 +10,7 @@ matrix:
       env: TEST=unit
     - node_js: 11
       env: TEST=unit
-    - node_js: 12
+    - node_js: 12.16.0
       env: TEST=unit
     - node_js: 10
       env: TEST=build_and_lint
